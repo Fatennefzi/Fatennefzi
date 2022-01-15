@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatennefzi
 - 👀 I’m interested in programming lanquages.
-- 🌱 I’m currently learning pysics and chemistry.
+- 🌱 I’m currently learning physics and chemistry.
 
 
 <!---
